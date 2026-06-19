@@ -17,7 +17,8 @@
     "fontawesome": "^5.6.3",
     "next": "16.2.9",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "tailwind-merge": "^3.6.0"
   },
   "devDependencies": {
     "@svgr/webpack": "^8.1.0",
